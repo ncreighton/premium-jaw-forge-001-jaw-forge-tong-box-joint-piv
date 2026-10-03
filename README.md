@@ -1,0 +1,2 @@
+# premium-jaw-forge-001-jaw-forge-tong-box-joint-piv
+Tired of losing track of your custom jaw measurements and pivot tolerances across a dozen scrap notes? The Jaw Forge Tong &amp; Box Joint Pivot Craft Lab is your forge-side digital anvil — a Notion template built to hammer out repeatable, precision tongs and box joints without the mental sparks.  This template eliminates the chaos of paper sketches and
